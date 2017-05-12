@@ -1,0 +1,6 @@
+[submodule "inih"]
+	path = inih
+	url = https://github.com/benhoyt/inih.git
+[submodule "bluez"]
+	path = bluez
+	url = git://git.kernel.org/pub/scm/bluetooth/bluez.git
